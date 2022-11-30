@@ -1,8 +1,0 @@
-# Ignore all .txt files
-*.txt
-
-# Ignore all .log files
-*.log
-
-# Ignore all files in temp directory
-temp/
